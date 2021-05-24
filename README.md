@@ -1,10 +1,7 @@
-#Desafio Api-Marvel
-
-# Marvel
-O Desafio: Marvel
+# Desafio Api-Marvel
 
 <h1 align="center">
-  <img alt="Marvel" title="Marvel" src=".github/logo.png" />
+  <img alt="Marvel" title="Marvel" src="https://i.pinimg.com/originals/e4/2b/72/e42b72121ac11b1997e99977b21daf2a.jpg" />
 </h1>
 
 <p align="center">
@@ -24,14 +21,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Axios](https://github.com/axios/axios)
 - [Cors](https://www.npmjs.com/package/cors/)
 
+- [Heroku](https://dashboard.heroku.com/)
+
 
 ## 💻 Projeto
 
 API de Autentição para Aplicativo Listar Herois da Marvel.
 
 <p align="center">
-  <a href="https://marvel-fortbrasil.netlify.app/" target="_blank">
-    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
+  <a href="https://marvel-fortbrasil.netlify.app/" target="_blank"> 
+    <img alt="API Heroku" width="100" src="https://www.fullstackpython.com/img/logos/heroku.png">
   </a>
 </p>
 
